@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emmanuel-mwendwa
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning kotlin 
-- 💞️ I’m looking to collaborate on a dating app
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning FastAPI 
+- 💞️ I’m looking to collaborate on a sales inventory app
 - 📫 You can reach me on mwendwae054@gmail.com
 
 <!---
