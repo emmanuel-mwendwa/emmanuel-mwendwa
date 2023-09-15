@@ -40,7 +40,8 @@
 
 <hr>
 <h3>Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuel-mwendwa&show_icons=true&locale=en" alt="emmanuel-mwendwa" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuel-mwendwa&show_icons=true&theme=transparent)
 
 <hr>
 <h3>Github Trophies:</h3>
