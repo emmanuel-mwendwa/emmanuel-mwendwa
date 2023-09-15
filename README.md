@@ -45,4 +45,5 @@
 
 <hr>
 <h3>Github Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuel-mwendwa" alt="emmanuel-mwendwa" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=emmanuel-mwendwa&column=4&margin-h=15&margin-w=25&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
