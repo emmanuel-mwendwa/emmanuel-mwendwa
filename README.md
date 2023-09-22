@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **React, Computer Science**
 
-- 👨‍💻 All of my projects are available at [http://my_portfolio.com](http://my_portfolio.com)
-
 - 💬 Ask me about **flask, vanilla js**
 
 <hr>
