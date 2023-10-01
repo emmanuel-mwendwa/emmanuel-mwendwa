@@ -46,7 +46,7 @@
 <hr>
 <h3>Stats:</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuel-mwendwa&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuel-mwendwa&show_icons=true&theme=black)
 
 <hr>
 <h3>Github Trophies:</h3>
