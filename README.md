@@ -2,11 +2,13 @@
 <h3 align="left">A passionate web developer from Kenya</h3>
 
 
-- 🔭 I’m currently working on a **Backery Management System**
+- 🔭 I’m currently working on a **School Management System**
 
 - 🌱 I’m currently learning **React, Computer Science**
 
-- 💬 Ask me about **flask, vanilla js**
+- 💬 Ask me about **python, flask, vanilla js**
+
+- 🤝 Looking to collaborate on any and all projects
 
 <hr>
 <h3 align="left">Connect with me:</h3>
