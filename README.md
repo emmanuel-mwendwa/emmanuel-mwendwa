@@ -2,7 +2,7 @@
 <h3 align="left">A passionate web developer from Kenya</h3>
 
 
-- 🔭 I’m currently working on a **Looking for a collaboration**
+- 🔭 I’m currently **Looking for a collaboration**
 
 - 🌱 I’m currently learning **React, Computer Science**
 
