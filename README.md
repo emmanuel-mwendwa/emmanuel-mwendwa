@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently **Looking for a collaboration**
 
-- 🌱 I’m currently learning **React, Computer Science**
+- 🌱 I’m currently learning **React-Native, Computer Science**
 
 - 💬 Ask me about **python, flask, vanilla js**
 
