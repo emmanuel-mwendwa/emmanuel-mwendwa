@@ -10,7 +10,7 @@
 
 - 🤝 Looking to collaborate on any and all projects
 
-- Check out my  ![Portfolio](https://www.emmanuel-mwendwa.xyz)
+- Check out my  <a href="https://www.emmanuel-mwendwa.xyz" target="_blank"> website </a> and get in touch.
 
 <hr>
 <h3 align="left">Connect with me:</h3>
