@@ -4,11 +4,13 @@
 
 - 🔭 I’m currently **Looking for a collaboration**
 
-- 🌱 I’m currently learning **React-Native, Computer Science**
+- 🌱 I’m currently learning **Frappe Framework**
 
 - 💬 Ask me about **python, flask, vanilla js**
 
 - 🤝 Looking to collaborate on any and all projects
+
+- Check out my  ![Portfolio](https://www.emmanuel-mwendwa.xyz)
 
 <hr>
 <h3 align="left">Connect with me:</h3>
