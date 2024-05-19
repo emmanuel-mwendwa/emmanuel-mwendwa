@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Mwendwa Emmanuel</h1>
+<h1 align="left">Hi 👋, I'm Emmanuel Mwendwa</h1>
 <h3 align="left">A passionate web developer from Kenya</h3>
 
 
