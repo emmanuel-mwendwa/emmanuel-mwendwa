@@ -10,7 +10,7 @@
 
 - 🤝 Looking to collaborate on any and all projects
 
-- 👁️ Check out my  <a href="https://www.emmanuel.mwendwa.xyz" target="_blank"> website </a> and get in touch 📞.
+- 👁️ Check out my  <a href="https://mwendwa.coiledcoder.dev" target="_blank"> website </a> and get in touch 📞.
 
 <hr>
 <h3 align="left">Connect with me:</h3>
